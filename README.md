@@ -38,11 +38,11 @@ Use **Power Query / Power BI** as the primary accounting analytics platform beca
 
 ## Project materials
 
-- **Case-study website:** enable GitHub Pages from the `main` branch and `/ (root)` folder
+- **Case-study website:** [GitHub Pages site](https://francoso10.github.io/financial-data-analytics-case-study/)
 - **Presentation video:** [Watch on Google Drive](https://drive.google.com/file/d/1eA-KCRDO0V0enOLv0vhS0z54fqb4r-gM/view?usp=sharing)
-- **Final report:** to be added in `documents/`
-- **Data storytelling presentation:** to be added in `documents/`
+- **Final report:** [Open PDF](documents/ACC430_Final_Report_Francisco_Sousa.pdf)
+- **Data storytelling presentation:** [Open PDF](documents/ACC430_Final_Data_Storytelling_Presentation_Francisco_Sousa.pdf)
 
 ## Academic context
 
-This project was completed for ACC 430 Data Storytelling at Southern New Hampshire University. The content is presented as an academic case study and does not represent professional consulting work or the analysis of confidential employer data.
+This project was completed for ACC 430 Data Storytelling at Southern New Hampshire University. It is presented as an academic case study and does not represent professional consulting work or analysis of confidential employer data.
